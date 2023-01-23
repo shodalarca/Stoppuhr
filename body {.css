@@ -1,0 +1,29 @@
+body {
+    background-color: black !important;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: white;
+    color: black;
+}
+
+#lead{
+    color: rgba(66, 13, 157, 0.642);
+}
+#sub-lead{
+    color: rgb(30, 0, 128);;
+}
+
+#timer{
+    color: rgb(13, 0, 128);
+}
+
+#container{
+    text-align: center;
+}
